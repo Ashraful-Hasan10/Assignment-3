@@ -1,4 +1,4 @@
-
+// https://github.com/Ashraful-Hasan10/Assignment-JS
 
 // 1st problem( Kilometer to meter )
 
@@ -38,10 +38,7 @@ function budgetCalculator(num1, num2, num3){
   // Example to check the code: 
  budgetCalculator(9, 0, 4);
    
-   
-   
-  
-
+        
 
 
 // 3rd Problem (Count The Hotel Cost)
